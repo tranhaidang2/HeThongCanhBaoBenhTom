@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Workspace\\TieuLuanTotNghiep\\HeThongCanhBaoBenhTom\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA1F61-144C-44D0-8CFC-91DAE1EA9BBF}|HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom.csproj|w:\\workspace\\tieuluantotnghiep\\hethongcanhbaobenhtom\\hethongcanhbaobenhtom\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4CFA1F61-144C-44D0-8CFC-91DAE1EA9BBF}|HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom.csproj|solutionrelative:hethongcanhbaobenhtom\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA1F61-144C-44D0-8CFC-91DAE1EA9BBF}|HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom.csproj|w:\\workspace\\tieuluantotnghiep\\hethongcanhbaobenhtom\\hethongcanhbaobenhtom\\data\\hethongcanhbaobenhtomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA1F61-144C-44D0-8CFC-91DAE1EA9BBF}|HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom.csproj|solutionrelative:hethongcanhbaobenhtom\\data\\hethongcanhbaobenhtomcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CFA1F61-144C-44D0-8CFC-91DAE1EA9BBF}|HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom.csproj|w:\\workspace\\tieuluantotnghiep\\hethongcanhbaobenhtom\\hethongcanhbaobenhtom\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFA1F61-144C-44D0-8CFC-91DAE1EA9BBF}|HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom.csproj|solutionrelative:hethongcanhbaobenhtom\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HeThongCanhBaoBenhTomContext.cs",
+              "DocumentMoniker": "W:\\Workspace\\TieuLuanTotNghiep\\HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom\\Data\\HeThongCanhBaoBenhTomContext.cs",
+              "RelativeDocumentMoniker": "HeThongCanhBaoBenhTom\\Data\\HeThongCanhBaoBenhTomContext.cs",
+              "ToolTip": "W:\\Workspace\\TieuLuanTotNghiep\\HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom\\Data\\HeThongCanhBaoBenhTomContext.cs",
+              "RelativeToolTip": "HeThongCanhBaoBenhTom\\Data\\HeThongCanhBaoBenhTomContext.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAIwJ0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:27:07.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "W:\\Workspace\\TieuLuanTotNghiep\\HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HeThongCanhBaoBenhTom\\Controllers\\AccountController.cs",
+              "ToolTip": "W:\\Workspace\\TieuLuanTotNghiep\\HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HeThongCanhBaoBenhTom\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T17:24:02.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "W:\\Workspace\\TieuLuanTotNghiep\\HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "HeThongCanhBaoBenhTom\\Views\\Account\\Register.cshtml",
+              "ToolTip": "W:\\Workspace\\TieuLuanTotNghiep\\HeThongCanhBaoBenhTom\\HeThongCanhBaoBenhTom\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "HeThongCanhBaoBenhTom\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADAAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T07:34:34.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

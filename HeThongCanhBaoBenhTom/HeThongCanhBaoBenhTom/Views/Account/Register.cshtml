@@ -1,0 +1,76 @@
+﻿@model HeThongCanhBaoBenhTom.ViewModels.RegisterViewModel
+
+@{
+    Layout = null;
+    ViewData["Title"] = "Đăng nhập & Đăng ký";
+}
+
+
+<link rel="stylesheet" href="~/css/register.css"/> 
+
+<div class="wrapper">
+    <div class="form-header">
+        <div class="titles">
+            <div class="title-login">Login</div>
+            <div class="title-register">SignUp</div>
+        </div>
+    </div>
+
+    <!-- FORM ĐĂNG NHẬP -->
+    <form asp-action="Login" asp-controller="Account" method="post" class="login-form" autocomplete="off">
+        <div class="input-box">
+            <input type="email" class="input-field" name="Email" required />
+            <label for="log-email" class="label">Email</label>
+            <i class='bx bx-envelope icon'></i>
+        </div>
+        <div class="input-box">
+            <input type="password" class="input-field" name="Password" required />
+            <label for="log-pass" class="label">Mật khẩu</label>
+            <i class='bx bx-lock-alt icon'></i>
+        </div>
+        <div class="form-cols">
+            <div class="col-1"></div>
+            <div class="col-2">
+                <a href="#">Quên mật khẩu?</a>
+            </div>
+        </div>
+        <div class="input-box">
+            <button class="btn-submit" type="submit">Đăng nhập <i class='bx bx-log-in'></i></button>
+        </div>
+        <div class="switch-form">
+            <span>Chưa có tài khoản? <a href="#" onclick="registerFunction()">Đăng ký</a></span>
+        </div>
+    </form>
+
+    <!-- FORM ĐĂNG KÝ -->
+    <form asp-action="Register" asp-controller="Account" method="post" class="register-form" autocomplete="off">
+        <div class="input-box">
+            <input asp-for="Username" class="input-field" required />
+            <label asp-for="Username" class="label">Tên đăng nhập</label>
+            <i class='bx bx-user icon'></i>
+        </div>
+        <div class="input-box">
+            <input asp-for="Password" type="password" class="input-field" required />
+            <label asp-for="Password" class="label">Mật khẩu</label>
+            <i class='bx bx-lock-alt icon'></i>
+        </div>
+        <div class="input-box">
+            <input asp-for="ConfirmPassword" type="password" class="input-field" required />
+            <label asp-for="ConfirmPassword" class="label">Xác nhận mật khẩu</label>
+            <i class='bx bx-lock-alt icon'></i>
+        </div>
+        <div class="input-box">
+            <input asp-for="Email" class="input-field" required />
+            <label asp-for="Email" class="label">Email</label>
+            <i class='bx bx-user-circle icon'></i>
+        </div>
+        <div class="input-box">
+            <button class="btn-submit" type="submit">Đăng ký <i class='bx bx-user-plus'></i></button>
+        </div>
+        <div class="switch-form">
+            <span>Đã có tài khoản? <a href="#" onclick="loginFunction()">Đăng nhập</a></span>
+        </div>
+    </form>
+</div>
+
+<script src="~/js/site.js"></script>
