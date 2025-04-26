@@ -393,6 +393,6 @@ W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\obj\D
 W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\obj\Debug\net9.0\compressed\pusktlqw3k-fw9op1z7az.gz
 W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\obj\Debug\net9.0\compressed\vhsmxphsmd-bi4v2s709r.gz
 W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\bin\Debug\net9.0\BCrypt.Net-Next.dll
-W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\obj\Debug\net9.0\compressed\g07819d3a6-uom540yjmq.gz
 W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\obj\Debug\net9.0\compressed\eqrmb1m85t-5ipweew5fc.gz
-W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\obj\Debug\net9.0\compressed\oow8rggz8s-n4fb2sd1lj.gz
+W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\obj\Debug\net9.0\compressed\g07819d3a6-41lz2pi154.gz
+W:\Workspace\TieuLuanTotNghiep\HeThongCanhBaoBenhTom\HeThongCanhBaoBenhTom\obj\Debug\net9.0\compressed\8jra03po81-r7efkq1hmx.gz

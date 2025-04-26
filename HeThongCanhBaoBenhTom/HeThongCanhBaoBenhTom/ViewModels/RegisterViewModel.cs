@@ -12,6 +12,5 @@ namespace HeThongCanhBaoBenhTom.ViewModels
 
         public string? ConfirmPassword { get; set; }
 
-
     }
 }
